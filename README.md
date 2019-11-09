@@ -21,11 +21,9 @@ ini bali means this is bali. AMP means mobile first. PWA means can run offline.
 2. bring up _ini bali_ using Google **Chrome** on your desktop or laptop. when you see the `+` icon in your address bar, click it to install on your desktop. try running ini bali with and without internet.
 3. bring up _ini bali_ on **Safari** on you iPhone. press the share icon. swipe up and press on **Add to Home Screen**. run the app with and without internet on your iPhone.
 
-<div>
 <img alt="ini bali iphone add to home page 1" title="ini bali iphone add to home page 1" src="screen-grabs/inibali-safari-ios-1.jpg" align="left"><img alt="ini bali iphone add to home page 2" title="ini bali iphone add to home page 2" src="screen-grabs/inibali-safari-ios-2.jpg" align="right">
-</div>
 
-<br>
+<img alt="ini bali iphone add to home page 2" title="ini bali iphone add to home page 2" src="https://via.placeholder.com/1" align="none">
 
 ---
 
