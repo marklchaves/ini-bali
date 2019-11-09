@@ -1,0 +1,44 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "facebook",
+    "twitter",
+    "email"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "want more?"
+    },
+    {
+      "type": "portrait",
+      "title": "inside bali published on inkifi.com",
+      "url": "https://inkifi.com/blog/inside-bali.html",
+      "image": "assets/bali-penulisan-portrait-mangku-kurni-1-ed-mob.jpg",
+      "category": "essay"
+    },
+    {
+      "type": "landscape",
+      "title": "photography",
+      "url": "https://marklchaves.com/photography/",
+      "image": "assets/bali-kuta-ibu2-lihat-sate-malam-ed-mob.jpg",
+      "category": "portfolio"
+    },
+    {
+      "type": "portrait",
+      "title": "when i'm not fiddling around with a camera, i feed the stray dogs & cats of bali",
+      "url": "https://marklchaves.com/about",
+      "image": "assets/bali-payogan-anjing-hitam-putih-2-mob.jpg",
+      "category": "about"
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "ping me",
+          "url": "https://marklchaves.com/contact"
+        }
+      ]
+    }
+  ]
+}
