@@ -43,6 +43,8 @@ Ini bali means this is bali. AMP means mobile first. PWA means more control over
 
 ### Browser Caching Benchmarks
 
+Click on image for larger version, if available. Then click the `Download` button to view the full size.
+
 #### No Browser Caching Going On
 
 <a href="screen-grabs/avada-classic-http-cache-1420w.jpg">
