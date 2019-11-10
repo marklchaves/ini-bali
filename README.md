@@ -107,4 +107,4 @@ Pretty _stoked_ with these initial results. This is out of the box with no perfo
   
 ---
 
-[Shameless Plug to Help Our Millie](https://ko-fi.com/marklchaves)
+Want to support my work? [Shameless Plug to Help Our Millie](https://ko-fi.com/marklchaves)
