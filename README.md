@@ -95,7 +95,7 @@ Pretty _stoked_ with these initial results. This is out of the box with no perfo
 <img alt="Mobile PageSpeed" title="Mobile PageSpeed" src="screen-grabs/inibali-amp-wa-pagespeed-mob-10nov2019.png">
 </a>
 
-  Pre-caching static files. Definitely a PWA.
+  Google PageSpeed Insights Mobile
 
 ---
 
@@ -103,7 +103,7 @@ Pretty _stoked_ with these initial results. This is out of the box with no perfo
 <img alt="Desktop PageSpeed" title="Desktop PageSpeed" src="screen-grabs/inibali-amp-wa-pagespeed-dt-10nov2019.png">
 </a>
 
-  Runtime (dynamic) caching. Definitely a PWA.
+  Google PageSpeed Insights Desktop
   
 ---
 
