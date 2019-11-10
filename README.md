@@ -2,7 +2,7 @@
 
 iya, you read that right. an AMP story running as a PWA. sick.
 
-ini bali means this is bali. AMP means mobile first. PWA means can run offline.
+ini bali means this is bali. AMP means mobile first. PWA means more control over browser caching and can run offline if needed.
 
 ---
 
@@ -33,4 +33,10 @@ ini bali means this is bali. AMP means mobile first. PWA means can run offline.
 
 ## screen grabs
 
+### installing ini bali via Safari on iOS
+
 <img alt="ini bali iphone add to home page 1" title="ini bali iphone add to home page 1" src="screen-grabs/inibali-safari-ios-1.jpg" align="left"><img alt="ini bali iphone add to home page 2" title="ini bali iphone add to home page 2" src="screen-grabs/inibali-safari-ios-2.jpg" align="right">
+
+### browser caching benchmarks
+
+
