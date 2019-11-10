@@ -82,6 +82,26 @@ HTTP browser caching enabled. We can see some zero load times and see some _memo
 </a>
 
   Runtime (dynamic) caching. Definitely a PWA.
+
+---
+
+### Performance Benchmarks
+
+Pretty _stoked_ with these initial results. This is out of the box with no performance tuning save standard image scaling and compression.
+
+<a href="screen-grabs/inibali-amp-wa-pagespeed-mob-10nov2019.png">
+<img alt="Mobile PageSpeed" title="Mobile PageSpeed" src="screen-grabs/inibali-amp-wa-pagespeed-mob-10nov2019.png">
+</a>
+
+  Pre-caching static files. Definitely a PWA.
+
+---
+
+<a href="screen-grabs/inibali-amp-wa-pagespeed-dt-10nov2019.png">
+<img alt="Desktop PageSpeed" title="Desktop PageSpeed" src="screen-grabs/inibali-amp-wa-pagespeed-dt-10nov2019.png">
+</a>
+
+  Runtime (dynamic) caching. Definitely a PWA.
   
 ---
 
