@@ -82,3 +82,7 @@ HTTP browser caching enabled. We can see some zero load times and see some _memo
 </a>
 
   Runtime (dynamic) caching. Definitely a PWA.
+  
+---
+
+[Shameless Plug to Help Our Millie](https://ko-fi.com/marklchaves)
