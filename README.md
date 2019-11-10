@@ -1,8 +1,8 @@
-# ini bali : this is bali Progressive Web AMP
+# ini bali : this is bali Progressive Web AMP (Story)
 
-Iya, you read that right. an AMP story running as a PWA. sick.
+Iya, you read that right. an AMP Story running as a PWA. sick.
 
-Ini bali means this is bali. AMP means mobile first. PWA means more control over browser caching and can run offline if needed.
+Ini bali means this is bali. AMP means mobile first. AMP Story means Snapchat/IG style story. PWA means more control over browser caching and can run offline if needed.
 
 ---
 
@@ -16,7 +16,7 @@ Ini bali means this is bali. AMP means mobile first. PWA means more control over
 
 ## Give it a Try
 
-1. Bring up the [ini bali AMP story](https://inibali.netlify.com/)
+1. Bring up the [ini bali Progressive Web App AMP story](https://inibali.netlify.com/)
  in your fave browser, then kill your network connection. Reload the page.
 2. Bring up _ini bali_ using Google **Chrome** on your desktop or laptop. When you see the `+` icon in your address bar, click it to install on your desktop. Try running ini bali with and without internet.
 3. Bring up _ini bali_ on **Safari** on you iPhone. Press the share icon. Swipe up and press on **Add to Home Screen**. Run the app with and without internet on your iPhone.
