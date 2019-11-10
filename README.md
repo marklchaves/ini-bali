@@ -2,11 +2,13 @@
 
 Iya, you read that right. an AMP Story running as a PWA. sick.
 
-Ini bali means this is bali. AMP means mobile first. AMP Story means Snapchat/IG style story. PWA means more control over browser caching and can run offline if needed.
+"Ini Bali" means "this is Bali". AMP means mobile first. AMP Story means Snapchat/IG style story. PWA means more control over browser caching and can run offline if needed.
 
 ---
 
 [live version](https://inibali.netlify.com/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/60cb91f6-a638-4728-869a-796f7398f995/deploy-status)](https://app.netlify.com/sites/inibali/deploys)
 
 ---
 
