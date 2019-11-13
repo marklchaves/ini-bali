@@ -12,7 +12,7 @@
     />
     <meta
       name="keywords"
-      content="freelance,freelancer,photography,photographer,photog,street photography,interior,bhutan,maldives,35mm film,filmisnotdead,creative,writing,writer,web developer,web designer,digital media,digital fluency,Bali,HTML,CSS,WordPress,Avada,Divi,SEO,geek,nerd,techie"
+      content="freelance,freelancer,photography,photographer,photog,street photography,interior,bhutan,maldives,35mm film,filmisnotdead,creative,writing,writer,web developer,web designer,digital media,digital fluency,Bali,HTML,CSS,WordPress,Avada,Divi,SEO,geek,nerd,techie,AMP,PWA"
     />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
@@ -403,12 +403,27 @@
         </amp-story-grid-layer>
       </amp-story-page>
 
-      <!-- Page 5 (Collage): 2 layers + animations -->
-      <amp-story-page id="page5">
+    <!-- Page 5: 1 layer (vertical) -->
+    <amp-story-page id="page5">
+      <amp-story-grid-layer template="fill">
+        <amp-img src="assets/bali-cowok-duduk-sawah-ed-mob.jpg" width="720" height="1080" layout="responsive"
+          alt="this is bali by freelance photographer mark l chaves">
+        </amp-img>
+      </amp-story-grid-layer>
+      <amp-story-grid-layer template="thirds">
+        <div grid-area="upper-third">
+          <p class="light-text">ubud</p>
+          <div class="fine-print light-text">~on 35mm film</div>
+        </div>
+      </amp-story-grid-layer>
+    </amp-story-page>
+
+      <!-- Page 6 (Collage): 2 layers + animations -->
+      <amp-story-page id="page6">
         <amp-story-grid-layer template="vertical" class="noedge">
           <div class="wrapper">
             <amp-img
-              src="assets/bali-ubud-palace-ibu-bus-jendela-mob.jpg"
+              src="assets/bali-ubud-palace-ibu-bus-jendela-360w.jpg"
               width="720"
               height="1080"
               layout="responsive"
@@ -418,7 +433,7 @@
             >
             </amp-img>
             <amp-img
-              src="assets/balinality-offerings-wedding-sukma-mob.jpg"
+              src="assets/balinality-offerings-wedding-sukma-360w.jpg"
               width="720"
               height="1080"
               layout="responsive"
@@ -428,7 +443,7 @@
             >
             </amp-img>
             <amp-img
-              src="assets/bali-campuhan-pura-gunung-lembah-ed-mob.jpg"
+              src="assets/bali-campuhan-pura-gunung-lembah-ed-360w.jpg"
               width="720"
               height="1080"
               layout="responsive"
@@ -438,7 +453,7 @@
             >
             </amp-img>
             <amp-img
-              src="assets/bali-cowok-duduk-sawah-ed-mob.jpg"
+              src="assets/bali-cowok-duduk-sawah-ed-360w.jpg"
               width="720"
               height="1080"
               layout="responsive"
