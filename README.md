@@ -93,19 +93,35 @@ Pretty _stoked_ with these initial results. This is out of the box with no perfo
 
 <em>Edit 13 November 2019: Now getting a 90 on mobile and 100 on desktop. This is after further scaling the four images for the collage page, yet adding one new story page. I'll take it!</em>
 
-<a href="screen-grabs/inibali-amp-wa-pagespeed-mob-10nov2019.png">
-<img alt="Mobile PageSpeed" title="Mobile PageSpeed" src="screen-grabs/inibali-amp-wa-pagespeed-mob-10nov2019.png">
+<a href="screen-grabs/inibali-amp-wa-pagespeed-mob-10nov2019.jpg">
+<img alt="Initial Mobile PageSpeed" title="Initial Mobile PageSpeed" src="screen-grabs/inibali-amp-wa-pagespeed-mob-10nov2019.jpg">
 </a>
 
-  Google PageSpeed Insights Mobile
+  Initial Google PageSpeed Insights Mobile
 
 ---
 
-<a href="screen-grabs/inibali-amp-wa-pagespeed-dt-10nov2019.png">
-<img alt="Desktop PageSpeed" title="Desktop PageSpeed" src="screen-grabs/inibali-amp-wa-pagespeed-dt-10nov2019.png">
+<a href="screen-grabs/inibali-amp-wa-pagespeed-dt-10nov2019.jpg">
+<img alt="Initial Desktop PageSpeed" title="Initial Desktop PageSpeed" src="screen-grabs/inibali-amp-wa-pagespeed-dt-10nov2019.jpg">
 </a>
 
-  Google PageSpeed Insights Desktop
+  Initial Google PageSpeed Insights Desktop
+  
+---
+
+<a href="screen-grabs/inibali-amp-wa-pagespeed-mob-13nov2019.jpg">
+<img alt="Improved Mobile PageSpeed" title="Improved Mobile PageSpeed" src="screen-grabs/inibali-amp-wa-pagespeed-mob-13nov2019.jpg">
+</a>
+
+  Google PageSpeed Insights Mobile After More Image Optimisation but Adding One New Page
+
+---
+
+<a href="screen-grabs/inibali-amp-wa-pagespeed-dt-13nov2019.jpg">
+<img alt="Improved Desktop PageSpeed" title="Improved Desktop PageSpeed" src="screen-grabs/inibali-amp-wa-pagespeed-dt-13nov2019.jpg">
+</a>
+
+  Google PageSpeed Insights Desktop After More Image Optimisation but Adding One New Page
   
 ---
 
