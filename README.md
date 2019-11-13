@@ -91,6 +91,8 @@ HTTP browser caching enabled. We can see some zero load times and see some _memo
 
 Pretty _stoked_ with these initial results. This is out of the box with no performance tuning save standard image scaling and compression.
 
+  Edit 13 November 2019: Now getting a 90 on mobile and 100 on desktop. This is after scaling some images for the collage page, yet adding one new story page.
+
 <a href="screen-grabs/inibali-amp-wa-pagespeed-mob-10nov2019.png">
 <img alt="Mobile PageSpeed" title="Mobile PageSpeed" src="screen-grabs/inibali-amp-wa-pagespeed-mob-10nov2019.png">
 </a>
