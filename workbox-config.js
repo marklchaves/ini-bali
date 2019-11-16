@@ -4,7 +4,8 @@ module.exports = {
     "assets/**.*",
     "icons/**.*",
     "bookend.json",
-    "offline.html"
+    "offline.html",
+    "index.html"
   ],
   "swSrc": "src/sw.js",
   "swDest": "sw.js",
