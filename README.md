@@ -2,7 +2,7 @@
 
 Iya, you read that right. an AMP Story running as a PWA. sick.
 
-"Ini Bali" means "this is Bali". AMP means mobile first. AMP Story means Snapchat/IG style story. PWA means more control over browser caching and can run offline if needed.
+"Ini Bali" means "this is Bali". AMP means mobile first. AMP Story means Snapchat/IG style story. PWA means more control over browser caching, **installable**, and can run _offline_ if needed.
 
 ---
 
@@ -12,7 +12,7 @@ Iya, you read that right. an AMP Story running as a PWA. sick.
 
 ---
 
-[based on the Build a Progressive Web AMP code lab](https://codelabs.developers.google.com/codelabs/amp-pwa-workbox/#0)
+[Based on the Build a Progressive Web AMP Code Lab](https://codelabs.developers.google.com/codelabs/amp-pwa-workbox/#0)
 
 ---
 
