@@ -11,18 +11,18 @@
       "text": "photography and web development by mark l chaves"
     },
     {
-      "type": "portrait",
-      "title": "inside bali published on inkifi.com",
-      "url": "https://inkifi.com/blog/inside-bali.html",
-      "image": "assets/bali-penulisan-portrait-mangku-kurni-1-ed-mob.jpg",
-      "category": "essay"
-    },
-    {
       "type": "landscape",
       "title": "photography",
-      "url": "https://marklchaves.com/photography/",
-      "image": "assets/bali-kuta-ibu2-lihat-sate-malam-ed-mob.jpg",
-      "category": "portfolio"
+      "url": "https://caughtmyeye.dev/photography/",
+      "image": "assets/bali-kuta-ibu2-lihat-sate-malam-ed-600w.jpg",
+      "category": "photography"
+    },
+    {
+      "type": "portrait",
+      "title": "web development",
+      "url": "https://caughtmyeye.dev/webdev/",
+      "image": "assets/cappuccino-laptop-overlooking-ocean-bay-600w.jpg",
+      "category": "webdev"
     },
     {
       "type": "portrait",
@@ -30,6 +30,13 @@
       "url": "https://marklchaves.com/about",
       "image": "assets/bali-payogan-anjing-hitam-putih-2-mob.jpg",
       "category": "about"
+    },
+    {
+      "type": "portrait",
+      "title": "inside bali published on inkifi.com",
+      "url": "https://inkifi.com/blog/inside-bali.html",
+      "image": "assets/bali-penulisan-portrait-mangku-kurni-1-ed-mob.jpg",
+      "category": "essay"
     },
     {
       "type": "cta-link",
