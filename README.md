@@ -1,8 +1,8 @@
 # ini bali : this is bali Progressive Web AMP (Story)
 
-Iya, you read that right. an AMP Story running as a PWA. sick.
+Iya, you read that right. An AMP Story running as a PWA. Sick.
 
-"Ini Bali" means "this is Bali". AMP means mobile first. AMP Story means Snapchat/IG style story. PWA means more control over browser caching and can run offline if needed.
+"Ini Bali" means "this is Bali". AMP means mobile first. AMP Story means Snapchat/IG style story. PWA means more control over browser caching, **installable**, and can run _offline_ if needed.
 
 ---
 
@@ -12,7 +12,7 @@ Iya, you read that right. an AMP Story running as a PWA. sick.
 
 ---
 
-[based on the Build a Progressive Web AMP code lab](https://codelabs.developers.google.com/codelabs/amp-pwa-workbox/#0)
+[Based on the Build a Progressive Web AMP Code Lab](https://codelabs.developers.google.com/codelabs/amp-pwa-workbox/#0)
 
 ---
 
@@ -125,4 +125,4 @@ Pretty _stoked_ with these initial results. This is out of the box with no perfo
   
 ---
 
-Want to support my work? [Shameless Plug to Help Our Millie](https://ko-fi.com/marklchaves)
+Want to support my work? [Shameless Plug to Help Our Millie ![Donate now](https://ko-fi.com/img/Kofi_Logo_Blue.svg "Donate to help our Millie")](https://ko-fi.com/marklchaves) 
