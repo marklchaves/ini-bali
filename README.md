@@ -37,6 +37,10 @@ Iya, you read that right. An AMP Story running as a PWA. Sick.
 
 ### Installing ini bali via Safari on iOS
 
+1. Click the share icon. 
+2. Swipe up.
+3. Select Add to Home Screen.
+
 <img alt="ini bali iphone add to home page 1" title="ini bali iphone add to home page 1" src="screen-grabs/inibali-safari-ios-1.jpg">
 
 <img alt="ini bali iphone add to home page 2" title="ini bali iphone add to home page 2" src="screen-grabs/inibali-safari-ios-2.jpg">
@@ -126,3 +130,5 @@ Pretty _stoked_ with these initial results. This is out of the box with no perfo
 ---
 
 Want to support my work? [Shameless Plug to Help Our Millie ![Donate now](https://ko-fi.com/img/Kofi_Logo_Blue.svg "Donate to help our Millie")](https://ko-fi.com/marklchaves) 
+
+Visit my [web dev portfolio](https://caughtmyeye.dev) for more of my tinkering.
