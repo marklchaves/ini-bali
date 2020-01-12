@@ -12,10 +12,24 @@
     },
     {
       "type": "landscape",
-      "title": "photography",
+      "title": "portfolio",
       "url": "https://caughtmyeye.dev/photography/",
       "image": "assets/bali-kuta-ibu2-lihat-sate-malam-ed-600w.jpg",
-      "category": "portfolio"
+      "category": "photography"
+    },
+    {
+      "type": "portrait",
+      "title": "creator of balistreetphotographer.com",
+      "url": "https://balistreetphotographer.com/",
+      "image": "assets/bali-ubud-pasar-jalan2-galungan-ibu-pura-562w.jpg",
+      "category": "photography"
+    },
+    {
+      "type": "portrait",
+      "title": "inside bali published on inkifi.com",
+      "url": "https://inkifi.com/blog/inside-bali.html",
+      "image": "assets/bali-penulisan-portrait-mangku-kurni-1-ed-mob.jpg",
+      "category": "writing"
     },
     {
       "type": "portrait",
@@ -27,16 +41,9 @@
     {
       "type": "portrait",
       "title": "when i'm not fiddling around with a camera, i feed the stray dogs & cats of bali",
-      "url": "https://marklchaves.com/about",
+      "url": "https://caughtmyeye.dev/about/",
       "image": "assets/bali-payogan-anjing-hitam-putih-2-mob.jpg",
       "category": "about"
-    },
-    {
-      "type": "portrait",
-      "title": "inside bali published on inkifi.com",
-      "url": "https://inkifi.com/blog/inside-bali.html",
-      "image": "assets/bali-penulisan-portrait-mangku-kurni-1-ed-mob.jpg",
-      "category": "essay"
     },
     {
       "type": "cta-link",
