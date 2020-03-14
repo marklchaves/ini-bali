@@ -131,4 +131,4 @@ Pretty _stoked_ with these initial results. This is out of the box with no perfo
 
 Want to support my work? [Shameless Plug to Help Our Millie ![Donate now](https://ko-fi.com/img/Kofi_Logo_Blue.svg "Donate to help our Millie")](https://ko-fi.com/marklchaves) 
 
-Visit my [web dev portfolio](https://caughtmyeye.dev) for more of my tinkering.
+Visit my [web dev portfolio](https://caughtmyeye.dev/webdev) for more of my tinkering.
