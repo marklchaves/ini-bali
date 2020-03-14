@@ -8,12 +8,12 @@
   "components": [
     {
       "type": "heading",
-      "text": "photography and web development by mark l chaves"
+      "text": "photography & web development // a caught my eye production"
     },
     {
       "type": "landscape",
-      "title": "portfolio",
-      "url": "https://caughtmyeye.dev/photography/",
+      "title": "caught my eye",
+      "url": "https://www.caughtmyeye.cc/",
       "image": "assets/bali-kuta-ibu2-lihat-sate-malam-ed-600w.jpg",
       "category": "photography"
     },
@@ -34,14 +34,14 @@
     {
       "type": "portrait",
       "title": "i create for coffee",
-      "url": "https://caughtmyeye.dev/webdev/",
+      "url": "https://ko-fi.com/marklchaves/",
       "image": "assets/cappuccino-laptop-overlooking-ocean-bay-600w.jpg",
-      "category": "web development"
+      "category": "ko-fi"
     },
     {
       "type": "portrait",
       "title": "when i'm not fiddling around with a camera, i feed the stray dogs & cats of bali",
-      "url": "https://caughtmyeye.dev/about/",
+      "url": "https://caughtmyeye.cc/",
       "image": "assets/bali-payogan-anjing-hitam-putih-2-mob.jpg",
       "category": "about"
     },
