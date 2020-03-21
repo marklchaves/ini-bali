@@ -286,7 +286,8 @@
     <!-- Preload the last three because they have issues displaying. -->
     <link rel="preload" href="assets/balinality-offerings-wedding-sukma-mob.jpg" as="image">
     <link rel="preload" href="assets/bali-campuhan-pura-gunung-lembah-ed-mob.jpg" as="image">
-    <link rel="preload" href="assets/bali-campuhan-pura-gunung-lembah-ed-mob.jpg" as="image">
+    <link rel="preload" href="assets/bali-campuhan-pura-gunung-lembah-ed-mob.webp" as="image">
+    <link rel="preload" href="assets/bali-cowok-duduk-sawah-ed-mob.jpg" as="image">
   </head>
 
   <body>
@@ -368,10 +369,17 @@
       <amp-story-page id="page4">
         <amp-story-grid-layer template="fill">
           <amp-img
-            src="assets/bali-campuhan-pura-gunung-lembah-ed-mob.jpg"
+            src="assets/bali-campuhan-pura-gunung-lembah-ed-mob.webp"
             layout="responsive" width="720" height="1086"
             alt="this is bali by freelance photographer mark l chaves"
           >
+            <amp-img
+              alt="this is bali by freelance photographer mark l chaves"
+              fallback
+              width="720"
+              height="1086"
+            src="assets/bali-campuhan-pura-gunung-lembah-ed-mob.jpg"
+            ></amp-img>
           </amp-img>
         </amp-story-grid-layer>
         <amp-story-grid-layer template="vertical" class="bottom">
