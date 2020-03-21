@@ -97,38 +97,40 @@ Pretty _stoked_ with these initial results. This is out of the box with no perfo
 
 <em>Edit 13 November 2019: Now getting a 90 on mobile and 100 on desktop. This is after further scaling the four images for the collage page, yet adding one new story page. I'll take it!</em>
 
-<a href="screen-grabs/inibali-amp-wa-pagespeed-mob-10nov2019.jpg">
-<img alt="Initial Mobile PageSpeed" title="Initial Mobile PageSpeed" src="screen-grabs/inibali-amp-wa-pagespeed-mob-10nov2019.jpg">
+<a href="screen-grabs/inibali-amp-pwa-pagespeed-mob-10nov2019.jpg">
+<img alt="Initial Mobile PageSpeed" title="Initial Mobile PageSpeed" src="screen-grabs/inibali-amp-pwa-pagespeed-mob-10nov2019.jpg">
 </a>
 
   Initial Google PageSpeed Insights Mobile
 
 ---
 
-<a href="screen-grabs/inibali-amp-wa-pagespeed-dt-10nov2019.jpg">
-<img alt="Initial Desktop PageSpeed" title="Initial Desktop PageSpeed" src="screen-grabs/inibali-amp-wa-pagespeed-dt-10nov2019.jpg">
+<a href="screen-grabs/inibali-amp-pwa-pagespeed-dt-10nov2019.jpg">
+<img alt="Initial Desktop PageSpeed" title="Initial Desktop PageSpeed" src="screen-grabs/inibali-amp-pwa-pagespeed-dt-10nov2019.jpg">
 </a>
 
   Initial Google PageSpeed Insights Desktop
   
 ---
 
-<a href="screen-grabs/inibali-amp-wa-pagespeed-mob-13nov2019.jpg">
-<img alt="Improved Mobile PageSpeed" title="Improved Mobile PageSpeed" src="screen-grabs/inibali-amp-wa-pagespeed-mob-13nov2019.jpg">
+<a href="screen-grabs/inibali-amp-pwa-pagespeed-mob-13nov2019.jpg">
+<img alt="Improved Mobile PageSpeed" title="Improved Mobile PageSpeed" src="screen-grabs/inibali-amp-pwa-pagespeed-mob-13nov2019.jpg">
 </a>
 
   Google PageSpeed Insights Mobile After More Image Optimisation but Adding One New Page
 
 ---
 
-<a href="screen-grabs/inibali-amp-wa-pagespeed-dt-13nov2019.jpg">
-<img alt="Improved Desktop PageSpeed" title="Improved Desktop PageSpeed" src="screen-grabs/inibali-amp-wa-pagespeed-dt-13nov2019.jpg">
+<a href="screen-grabs/inibali-amp-pwa-pagespeed-dt-13nov2019.jpg">
+<img alt="Improved Desktop PageSpeed" title="Improved Desktop PageSpeed" src="screen-grabs/inibali-amp-pwa-pagespeed-dt-13nov2019.jpg">
 </a>
 
   Google PageSpeed Insights Desktop After More Image Optimisation but Adding One New Page
   
 ---
 
-Want to support my work? [Shameless Plug to Help Our Millie ![Donate now](https://ko-fi.com/img/Kofi_Logo_Blue.svg "Donate to help our Millie")](https://ko-fi.com/marklchaves) 
+## I'll Drink to That ;-)
 
-Visit my [web dev portfolio](https://caughtmyeye.dev/webdev) for more of my tinkering.
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D7YARD)
+
+[caughtmyeye.cc](caughtmyeye.cc "website")
