@@ -97,6 +97,8 @@ Pretty _stoked_ with these initial results. This is out of the box with no perfo
 
 <em>Edit 13 November 2019: Now getting a 90 on mobile and 100 on desktop. This is after further scaling the four images for the collage page, yet adding one new story page. I'll take it!</em>
 
+<em>Edit 10 April 2020: Added latest mobile PageSpeed score (highest yet). I'll probably stop performance tuning here.</em>
+
 <a href="screen-grabs/inibali-amp-pwa-pagespeed-mob-10nov2019.jpg">
 <img alt="Initial Mobile PageSpeed" title="Initial Mobile PageSpeed" src="screen-grabs/inibali-amp-pwa-pagespeed-mob-10nov2019.jpg">
 </a>
@@ -126,6 +128,12 @@ Pretty _stoked_ with these initial results. This is out of the box with no perfo
 </a>
 
   Google PageSpeed Insights Desktop After More Image Optimisation but Adding One New Page
+  
+---
+
+![Final performance tweaks](screen-grabs/inibali-pagespeed-mob-10april2020-1280w.jpg)
+
+Latest PageSpeed mobile score after latest and probably final performance tweaks.
   
 ---
 
