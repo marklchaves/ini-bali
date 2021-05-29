@@ -141,4 +141,4 @@ Latest PageSpeed mobile score after latest and probably final performance tweaks
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D7YARD)
 
-[caughtmyeye.cc](caughtmyeye.cc "website")
+[caughtmyeye.cc](https://www.caughtmyeye.cc "website")
