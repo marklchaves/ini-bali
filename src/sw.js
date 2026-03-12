@@ -1,3 +1,9 @@
+// service-worker.js (or the file path from swSrc)
+import { precacheAndRoute } from 'workbox-precaching';
+
+// This exact sentinel is required by workbox-build injectManifest:
+precacheAndRoute(self.__WB_MANIFEST);
+
 importScripts('https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js');
 
 workbox.precaching.precacheAndRoute([]);
