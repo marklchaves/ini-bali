@@ -19,5 +19,9 @@
     "@ampproject/toolbox-optimizer": "^2.0.1",
     "minimist": "^1.2.6",
     "ecstatic": "^4.1.4"
+  },
+  "overrides": {
+    "postcss": "^8.5.18",
+    "update-notifier": "5.1.0"
   }
 }
